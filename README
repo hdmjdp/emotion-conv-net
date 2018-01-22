@@ -119,7 +119,7 @@ Models:
                      Mainly used to add layer-specific learning rates.
     loss_history.txt - Log file from our last retraining on our dataset
 
-    NOT INCLUDED: EmotiW_VGG_S.caffemodel - 
+    NOT INCLUDED: EmotiW_VGG_S.caffemodel - https://gist.github.com/GilLevi/54aee1b8b0397721aa4b
         This is the file with all the weights. It is 500 MB and cannot be archived. 
         However, you can download the Emotios in the Wild model from Caffe Model Zoo. 
         Retrain it on new data for a day or two, and you can get similar numbers to our model.
